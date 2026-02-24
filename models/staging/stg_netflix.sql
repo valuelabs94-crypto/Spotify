@@ -1,6 +1,6 @@
 {{config (database = "Netflix_db", schema = "raw")}}
 select
-   show_id,
+   id,
    type,
    title,
    director,
